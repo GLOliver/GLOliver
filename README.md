@@ -1,4 +1,8 @@
-### Hi there 👋
+# Guilherme Lopes de Oliveira
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-guilherme-oliveira-505b47142?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-oliveira-505b47142/)](https://www.linkedin.com/in/guilherme-oliveira-505b47142/)
+
 
 <!--
 **GLOliver/GLOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
