@@ -1,7 +1,7 @@
 # Guilherme Lopes de Oliveira
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-guilherme-oliveira-505b47142?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-oliveira-505b47142/)](https://www.linkedin.com/in/guilherme-oliveira-505b47142/)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=white&label=Linkedin&logo=Linkedin&logoColor=white&style=flat-square&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fguilherme-oliveira-505b47142%2F)](https://www.linkedin.com/in/guilherme-oliveira-505b47142/)
 
 
 <!--
