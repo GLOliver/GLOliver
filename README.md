@@ -1,7 +1,7 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">  Welcome, Stranger! 
+## <img src="https://cdn-icons-png.flaticon.com/512/599/599335.png" width="50px" style="max-width:100%;">  Welcome, Stranger! 
 
 <p align="center">
-  Made in brasil! <img width="16" src="https://image.flaticon.com/icons/png/512/330/330430.png" alt="Brazil" /> Analista de Sistemas Junior na <a href="https://stefanini.com/pt-br"> <strong>Stefanini</strong></a>.
+  Made in brasil! <img width="20" src="https://cdn-icons-png.flaticon.com/512/630/630591.png" alt="Brazil" /> Analista de Sistemas Pleno na <a href="https://stefanini.com/pt-br"> <strong>Stefanini</strong></a>.
   <br>
   <a href="https://www.linkedin.com/in/guilhermeoliveiralps/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeoliveiralps/" /></a>
