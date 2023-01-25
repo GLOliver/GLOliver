@@ -1,10 +1,15 @@
-## <img src="https://cdn-icons-png.flaticon.com/512/599/599335.png" width="50px" style="max-width:100%;">  Welcome, Stranger! 
+### <img src="https://cdn-icons-png.flaticon.com/512/599/599335.png" width="25px" style="max-width:50%;">  Welcome, Stranger! 
 
 <p align="center">
-  Made in brasil! <img width="20" src="https://cdn-icons-png.flaticon.com/512/630/630591.png" alt="Brazil" /> Analista de Sistemas Pleno na <a href="https://stefanini.com/pt-br"> <strong>Stefanini</strong></a>.
+  Made in brasil! <img width="20" src="https://cdn-icons-png.flaticon.com/512/630/630591.png" alt="Brazil" /> 
   <br>
-  <a href="https://www.linkedin.com/in/guilhermeoliveiralps/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeoliveiralps/" /></a>
+<a href="https://www.linkedin.com/in/guilhermeoliveiralps/" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermeoliveiralps/" />
+  </a>
+  <a href="https://github.com/GLOliver/" alt="GitHub">
+    <img src="https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/GLOliver/" />
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=GLOliver&color=006bed" />
 </p>
 
 ## :wink: Sobre mim 	
@@ -29,9 +34,4 @@
 ![GitLab](https://img.shields.io/badge/GitLab-333333?style=for-the-badge&logo=gitlab)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-
-<h1 align="center">
-:construction: Site Enconstrução :construction:
-</h1>
-
-![](https://komarev.com/ghpvc/?username=GLOliver&color=006bed)
+[//]: ![](https://komarev.com/ghpvc/?username=GLOliver&color=006bed)
